@@ -8,7 +8,10 @@ HIRs for intra-chromosomal
 
 HIRs for inter-chromosomal
 
-![image](https://user-images.githubusercontent.com/57889560/113145112-9e94ce00-9260-11eb-8300-be619ef191d2.png)
+![image](https://user-images.githubusercontent.com/57889560/113145112-9e94ce00-9260-11eb-8300-be619ef191d2.png)  
+
+HIRs in 3D genome model  
+![image](https://github.com/maxuying1218/HIRsCalling/blob/main/example/HIRs_3d_genome.png)
 
 -----------------------
 
